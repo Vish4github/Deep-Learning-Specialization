@@ -1,0 +1,3 @@
+# Deep-Learning-Specialization
+
+This is undoubtedly, one of the best courses on deep learning you could find online. It helped me refresh some of the basic concepts on CNNs, RNNs and also provided some much-needed insights into topics like hyperparameter tuning and structuring machine learning projects which we wouldn’t normally find elsewhere. With the deep learning community, especially the NLP practitioners, transitioning to attention mechanism and transformers, this series of courses can help you get started in the right direction. A big thanks to Andrew Ng and team for curating this series of courses
